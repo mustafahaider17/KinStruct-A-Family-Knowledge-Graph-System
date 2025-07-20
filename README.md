@@ -36,4 +36,5 @@ KinStruct is a hybrid AI project that integrates Prolog logic, Neo4j graph datab
 - Takes user input (like "Who is Mahnoor?") and detects names/relations using spaCy.
 - Searches Neo4j for the answer and responds.
 - If no match is found, it replies: "Sorry, we don’t know."
-- 
+
+  
