@@ -1,6 +1,6 @@
 # KinStruct: A Family Knowledge Graph System
 
-KinStruct is a hybrid AI project that integrates Prolog logic, Neo4j graph databases, and spaCy NLP to allow users to query family relationships in plain English.
+KinStruct is a hybrid AI project that integrates Prolog logic, Neo4j graph databases, and spaCy NLP to allow users to query family relationships.
 
 ## 💡 Key Features
 
